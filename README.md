@@ -24,3 +24,24 @@ Repositório
 ```GIT status``` <sub> (status (removeu, adicionou ou alterou informação))
 
 ```GIT merge``` <sub> (faz a mescla de dados)
+
+```GIT init``` <sub> (criar um novo repositório)
+
+```GIT add meu_arquivo.txt``` <sub> (Adicionar um arquivo em específico)
+
+```GIT add meu_diretorio``` <sub> (Adicionar todos os arquivos/diretórios)
+
+```GIT rm meu_arquivo.txt``` <sub> (Remover arquivo)
+
+```GIT log``` <sub> (Exibir histórico)
+
+```GIT remote``` <sub> (Exibir os repositórios remotos)
+
+```GIT remote rename origin curso-git``` <sub> (Renomear um repositório remoto)
+
+```GIT fetch``` <sub> (Renomear um repositório remoto)
+
+```GIT clone``` <sub> (Clonar um repositório remoto já existente) 
+
+```GIT git branch ``` <sub> (Criando um novo branch) 
+
